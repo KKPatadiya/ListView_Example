@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView Demo</string>
+    <string name="Firstname"> FirstName </string>
+    <string name="LastName"> LastName </string>
+    <string name="Button"> Submit </string>
+    <string name="Edit"> Edit </string>
+    <string name="Delete"> Delete </string>
+</resources>
